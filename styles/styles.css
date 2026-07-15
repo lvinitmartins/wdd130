@@ -52,10 +52,6 @@ main img {
     box-shadow: -3px 5px 10px rgb(0 0 0/0.3);
 }
 
-p {
-    padding: 0;
-}
-
 footer {
     margin-top: 15px;
     border-top: 1px solid #333;
