@@ -72,10 +72,24 @@ article {
     padding: 16px;
     opacity: 0.7;
     background-color: var(--accent1-color);
-    color: var(--secondary-color)
+    color: #fff
 }
 
 .hero article img {
     float: right;
     width: 125px;
+}
+
+section h2 {
+    width: 100%;
+    padding: 16px;
+    text-align: center;
+    background-color: var(--accent2-color);
+    color: #fff;
+}
+
+section p {
+    padding: 16px;
+    opacity: 0.7;
+    /* color: # */
 }
